@@ -2,7 +2,7 @@
 
 <h2>Descrição:</h2>
 
-A ideia do app é oferecer a cada 25 minutos um determinado exercicio para que a pessoa utilizando o computador lembre de se exercitar. Conforme as atividades são completadas o usuario vai ganhando experiência e aumentando de level.
+A ideia do app desenvolvido durante a 4ª edição da NLW é oferecer a cada 25 minutos um determinado exercicio para que a pessoa utilizando o computador lembre de se exercitar. Conforme as atividades são completadas o usuario vai ganhando experiência e aumentando de level.
 
 <h2>Tecnologias</h2>
 
