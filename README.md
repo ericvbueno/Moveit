@@ -4,7 +4,7 @@
 
 A ideia do app desenvolvido durante a 4ª edição da NLW é oferecer a cada 25 minutos um determinado exercicio para que a pessoa utilizando o computador lembre de se exercitar. Conforme as atividades são completadas o usuario vai ganhando experiência e aumentando de level.
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias:</h2>
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
   </ul>
 
-<h2>Como executar</h2>
+<h2>Como executar:</h2>
 
 <ul>
   <li>Clone o repositório</li>
